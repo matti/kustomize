@@ -6,7 +6,7 @@ require (
 	github.com/PuerkitoBio/purell v1.1.0 // indirect
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/emicklei/go-restful v2.9.3+incompatible // indirect
-	github.com/evanphx/json-patch v3.0.0+incompatible
+	github.com/evanphx/json-patch v4.0.0+incompatible
 	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-openapi/jsonpointer v0.0.0-20180322222829-3a0015ad55fa // indirect
 	github.com/go-openapi/jsonreference v0.0.0-20180322222742-3fb327e6747d // indirect
@@ -27,7 +27,8 @@ require (
 	github.com/spf13/cobra v0.0.2
 	github.com/spf13/pflag v1.0.1
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/tools v0.0.0-20190531172133-b3315ee88b7d // indirect
+	golang.org/x/net v0.0.0-20190311183353-d8887717615a // indirect
+	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.2.1
 	k8s.io/api v0.0.0-20180510062335-53d615ae3f44
