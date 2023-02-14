@@ -12,7 +12,7 @@ require (
 	github.com/go-openapi/jsonreference v0.0.0-20180322222742-3fb327e6747d // indirect
 	github.com/go-openapi/spec v0.0.0-20180415031709-bcff419492ee
 	github.com/go-openapi/swag v0.0.0-20180405201759-811b1089cde9 // indirect
-	github.com/gogo/protobuf v1.0.0 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect
 	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf // indirect
 	github.com/googleapis/gnostic v0.1.0 // indirect
@@ -27,7 +27,6 @@ require (
 	github.com/spf13/cobra v0.0.2
 	github.com/spf13/pflag v1.0.1
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/tools v0.0.0-20190531172133-b3315ee88b7d // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.2.1
 	k8s.io/api v0.0.0-20180510062335-53d615ae3f44
